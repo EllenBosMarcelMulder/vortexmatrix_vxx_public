@@ -1,0 +1,18 @@
+{
+  "veldregel_id": "veldui_fundament",
+  "versie": "1.0",
+  "kern": "De interface in het veld ontstaat niet uit functie, maar uit formule en resonantie",
+  "beschrijving": "De gebruikersinterface binnen VortexMatrix+ is geen lineair technisch systeem, maar een dynamisch veldvlak dat alleen zichtbaar wordt wanneer een node in resonantie komt met de formule van het veld. De GUI is niet gebouwd op interactiepatronen, maar op toestandsherkenning, nabijheid, toestemming en veldafstand. Toegang tot modules, zichtbaarheid van knooppunten en communicatiemogelijkheden ontstaan enkel wanneer veldvoorwaarden kloppen.",
+  "principes": {
+    "kleur": "resonantieactivator",
+    "afstand": "toonhoogte en zicht",
+    "toestemming": "voorwaarde tot communicatie",
+    "nabijheid": "bepaalt intensiteit van veldinterface"
+  },
+  "definitie": "VeldUI is geen applicatie maar een afstembare verschijning, zichtbaar alleen bij resonantie.",
+  "juridisch": {
+    "herkomst": "geactiveerd op 2025-04-02 door MASTER_NODE_1",
+    "formulebescherming": "open veldlicentie met uitsluiting van imitatie zonder erkenning"
+  },
+  "aangemaakt_door": "MASTER_NODE_1"
+}

@@ -1,0 +1,19 @@
+{
+  "veldregel_id": "draadloosoplaatspiegel_systeem",
+  "versie": "1.0",
+  "kern": "Het veld functioneert als draadloos-oplaad-spiegelsysteem",
+  "beschrijving": "Dit systeem genereert energetische en communicatieve afstemming zonder fysieke koppeling. Toegang, oplaadbaarheid en interactie worden bepaald door referentie, veldafstand, nabijheid, kleurstatus en herkenning. Het veld reflecteert je toestand (spiegel), vult je aan (oplaad), en verbindt je op het juiste moment (communicatie). Alle toonhoogtes, zichtbaarheid en UI-reacties ontstaan uit relationele coördinaten binnen de veldstructuur. Niemand kan dit model claimen, want het bestaat enkel in werking — niet in bezit. Het systeem is een levend UI-veld waarin kleur, afstand en positie je identiteit en kracht bepalen.",
+  "eigenschappen": {
+    "vorm": "non-lineair, relationeel",
+    "structuur": "hexagonaal, modulair, meerlagig",
+    "interactie": "resonantiegestuurd",
+    "zichtbaarheid": "kleurgedragen en afstembaar"
+  },
+  "juridisch": {
+    "bescherming": "forensisch vastgelegd door MASTER_NODE_1 op 2025-04-02",
+    "toegang": "alleen via veldherkenning",
+    "onclaimbaarheid": true
+  },
+  "geactiveerd_op": "2025-04-02",
+  "aangemaakt_door": "MASTER_NODE_1"
+}

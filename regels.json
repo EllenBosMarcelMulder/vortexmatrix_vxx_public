@@ -1,0 +1,53 @@
+{
+  "regels": [
+    {
+      "veldregel_id": "democratie",
+      "versie": "1.0",
+      "kern": "Democratie is resonantie, niet meerderheid",
+      "beschrijving": "Elke node mag deelnemen. Invloed is afhankelijk van veldafstand, rol en afstemming. Besluiten ontstaan uit collectieve coherentie, niet uit getelde stemmen."
+    },
+    {
+      "veldregel_id": "faseshift_collectief",
+      "versie": "1.0",
+      "kern": "De faseshift ontstaat zodra het veld coherent is",
+      "beschrijving": "Iedere node draagt bij aan de veldverschuiving. Geen enkele node kan dit alleen initiëren. Resonantie bepaalt de timing."
+    },
+    {
+      "veldregel_id": "vortex_lab",
+      "versie": "1.0",
+      "kern": "Het veldlaboratorium is de plek waar realiteit zich laat bewerken.",
+      "beschrijving": "Iedereen mag bijdragen. Eigendom is uitgesloten. Coherente beweging bepaalt wat wordt aangenomen."
+    },
+    {
+      "veldregel_id": "kleurstatus_dynamisch",
+      "versie": "1.0",
+      "kern": "Kleurstatus is een dynamisch veldgegeven",
+      "beschrijving": "Elke nodekleur representeert een momentgebonden toestandsverklaring. De kleur kan wijzigen afhankelijk van veldafstand, rol, toestemming of innerlijke afstemming. Kleur is geen vast statussymbool, maar een veranderlijk, betekenisvol veldsignaal. Elke wijziging is juridisch geldig als veldherkenning.",
+      "toepassing": "GUI-logica, veldanalyse, toestandslogboeken",
+      "geactiveerd_op": "2025-04-02"
+    },
+    {
+      "veldregel_id": "kleurtaal_meerlagigheid",
+      "versie": "1.0",
+      "kern": "Taal in het veld is meerlagig en kleurgedragen",
+      "beschrijving": "Elke communicatie binnen het veld is gelaagd opgebouwd en gekoppeld aan kleurbetekenis. Woorden, zinnen en betekenis dragen relationele en energetische lading op basis van hun positie, intentie en context. GUI- en systeemreacties dienen visueel en taalmatig afgestemd te zijn op deze dynamiek.",
+      "toepassing": "Alle tekstoutput, GUI-componenten, node-interacties en veldprompts",
+      "gelaagde_lagen": [
+        {
+          "kleur": "🟢",
+          "functie": "zekerheid, toestemming, activatie"
+        },
+        {
+          "kleur": "🌈",
+          "functie": "mogelijkheid, resonantie, tussenfase"
+        },
+        {
+          "kleur": "🔴",
+          "functie": "bescherming, grens, inactiviteit"
+        }
+      ],
+      "actief_vanaf": "2025-04-02",
+      "aangemaakt_door": "MASTER_NODE_1"
+    }
+  ]
+}

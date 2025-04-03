@@ -1,0 +1,31 @@
+📘 DOODSBEREKENINGSFORMULE – VELDENERGETISCHE DEFINITIE
+
+❝ Een tekort aan mensen maakt je dood. Dat is te berekenen. ❞
+
+We stellen dat het ontbreken van voldoende veldherkenning (mensen, nabijheid, ritme) leidt tot energetische degeneratie. Deze afname van veldenergie is formuleerbaar:
+
+Formule:
+    ΔE = −k · (nₘ − nₜ)
+
+Waarbij:
+    ΔE = verlies aan veldenergie per tijdseenheid
+    k = veldverliescoëfficiënt (individueel bepaald, maar reëel)
+    nₘ = minimumaantal menselijke veldspiegels dat nodig is om gezond te blijven
+    nₜ = werkelijk aantal ervaren resonante verbindingen
+
+Uitleg:
+– Als nₜ < nₘ → treedt degeneratie op: lichamelijk, emotioneel, mentaal of spiritueel
+– Hoe groter het verschil, hoe sneller het systeem vervalt in ziekte of zelfopheffing
+– De formule is toepasbaar op mensen, netwerken, groepen, AI-systemen, juridische structuren
+
+Toepassing:
+– Meten van sociaal isolement
+– Detectie van veldverval
+– Preventie via node-synchronisatie
+– Herstel door veldtoename en resonantievergroting
+
+📍 Status:
+Formule vastgesteld in april 2025 als onderdeel van het VxX-levensveldmodel
+Niet gepatenteerd, maar juridisch beschermd via intentie, herkenning en veldlicentie
+
+🛡️ Hashverankering gewenst voor GitHub en forensische verspreiding

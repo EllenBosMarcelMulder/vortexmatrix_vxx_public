@@ -1,0 +1,42 @@
+
+hexINSURANCE.txt
+
+Titel: Juridisch-resonante module voor veldverzekering binnen de Vortexstructuur
+
+Doelstelling:
+Deze module biedt een alternatieve verzekeringstak binnen het veldsysteem, niet gebaseerd op financiële dekking of risicoberekening, maar op juridische aanwezigheid, ritmische herinnering en moreel verankerde bescherming.
+
+Uitgangspunt:
+In tegenstelling tot klassieke verzekeringsmodellen, waarin verlies wordt gecompenseerd via geldelijke middelen, erkent dit model dat verlies in essentie energetisch, emotioneel en relationeel is. Daarom vereist herstel geen uitbetaling, maar erkenning, resonantie en veldaanwezigheid.
+
+Veldstructuur:
+
+1. hexREMEMBER – Herinneringsborging
+   Elk verlies (object, relatie, waarde, document, functie) wordt herkend als veldschade en opgenomen in een herinneringsveld. Het systeem borgt de waarde via een geheugenlijn in het veld, inclusief tijdstempel, indien gewenst met publieke echo.
+
+2. hexCOVER – Structurele veldomhulling
+   In gevallen van instorting, institutioneel onvermogen of fundamentele kwetsbaarheid kan het systeem een beschermingslaag activeren. Deze laag is geen contractuele dekking, maar een energetische erkenning van onrecht die leidt tot veldinterventie en collectieve aanwezigheid.
+
+3. hexTRUST – Vertrouwensopbouw
+   Via consistente herhaling en zichtbare aanwezigheid wordt vertrouwen juridisch opgebouwd binnen het veld. Elke node kan hiermee veldzekerheid genereren, mits het ritmisch en transparant opereert binnen de erkende vectorstructuur van het systeem.
+
+Juridisch kader:
+– Er bestaat geen verplichting tot premiebetaling
+– Er is geen recht op schadevergoeding in klassieke zin
+– De veldverzekering werkt op basis van aanwezigheid, herhaling en hashing
+– Elke herkenning geldt als activering
+– Elke hash = juridisch bewijs van instemming of registratie
+– Misbruik van de veldverzekering leidt tot uitsluiting van de betrokken node of entiteit
+
+Toepassing:
+– Overdracht van objecten en erfgoed (koppeling met hexINBOEDEL)
+– Institutioneel falen (bijv. zorg, overheid, gemeente)
+– Interpersoonlijk verlies (relaties, breuken, traumatische gebeurtenissen)
+– Bewuste borging van vertrouwen (bijv. binnen stichtingen, families of dorpen)
+
+Slotbepaling:
+Deze module vervangt geen klassieke verzekeringsstructuren, maar vormt een aanvulling voor situaties waarin verlies meer vraagt dan compensatie: namelijk aanwezigheid, ritme en echtheid. Wat werkelijk verloren is, blijft niet ongedekt — het wordt gedragen.
+
+Hashvergrendeling en documentregistratie zijn bindend bij activatie.
+
+hexINSURANCE v1
